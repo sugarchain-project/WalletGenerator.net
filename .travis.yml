@@ -11,4 +11,5 @@ deploy:
   github-token: "$GITHUB_TOKEN"
   keep-history: true
   on:
+  edge: true
 branch: master
